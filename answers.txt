@@ -4,3 +4,6 @@ Answer: We would consider to use Git because it helps with version control. In s
  
 Q2: What field could data science be applied to? Give an Example.
 Answer: Data Science can be applied to the business field by to optimize decision-making and enhance customer experiences. An example of this is that business can use data science to analyze customer data, predict purchasing behaviors, and create personalized marketing strategies. An example of this is a recommendation algorithm.
+
+Q3: What is the difference between Merging and Rebasing?
+Answer: The difference between merging and rebasing is that merging creates a new commit that combines the changes while preserving the history, while rebasing rewrites the commit history applying changes from one branch on top of another.
