@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science can be applied to the business field by to optimize decision-making and enhance customer experiences. An example of this is that business can use data science to analyze customer data, predict purchasing behaviors, and create personalized marketing strategies. An example of this is a recommendation algorithm.
